@@ -1,0 +1,5 @@
+Word Frequeency Summary
+=======================
+python              5
+code                3
+file                2
